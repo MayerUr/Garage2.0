@@ -8,5 +8,7 @@ namespace Övning___Git.Models
     public class Evorn
     {
         public int MyProperty { get; set; }
+
+        // Ny ändring
     }
 }
