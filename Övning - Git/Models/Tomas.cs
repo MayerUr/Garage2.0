@@ -9,6 +9,8 @@ namespace Övning___Git.Models
     {
         public int MyProperty { get; set; }
 
+        // Deta är en ändring i branchen Tomas
+
         //Ändring Kraschx
     }
 }
