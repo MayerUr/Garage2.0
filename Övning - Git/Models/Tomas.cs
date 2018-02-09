@@ -9,6 +9,6 @@ namespace Övning___Git.Models
     {
         public int MyProperty { get; set; }
 
-        //Ändring Krasch
+        //Ändring Kraschx
     }
 }
