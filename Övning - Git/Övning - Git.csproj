@@ -146,6 +146,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Tomas.cs" />
     <Compile Include="Models\Evorn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
