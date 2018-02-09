@@ -8,5 +8,7 @@ namespace Övning___Git.Models
     public class Tomas
     {
         public int MyProperty { get; set; }
+
+        //Ändring Krasch
     }
 }
