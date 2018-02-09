@@ -10,5 +10,6 @@ namespace Övning___Git.Models
         public int MyProperty { get; set; }
 
         // Ny ändring
+        // Ändring nr 3
     }
 }
